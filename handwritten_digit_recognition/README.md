@@ -5,7 +5,7 @@ This project implements a **two-layer feedforward neural network** from scratch 
 The goal is to understand the **inner workings of deep learning models** by manually coding forward propagation, loss calculation, and backpropagation, rather than relying on frameworks like TensorFlow or PyTorch.
 
 ## Repository Contents
-- `assignment5.py` — Full implementation of the neural network.
+- `handwritten_digit_predictor.py` — Full implementation of the neural network.
 
 ## What’s Implemented
 
