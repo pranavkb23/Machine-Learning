@@ -6,7 +6,6 @@ The goal is to understand the **inner workings of deep learning models** by manu
 
 ## Repository Contents
 - `assignment5.py` — Full implementation of the neural network.
-- `Assignment-5.docx` — Problem statement (not required for execution).
 
 ## What’s Implemented
 
