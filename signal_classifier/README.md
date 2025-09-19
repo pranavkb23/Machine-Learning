@@ -11,8 +11,8 @@ The work involves:
 - Comparing classification performance across models
 
 ## Repository Contents
-- `assignment_3.py` — Implementation using Decision Trees and Random Forests.
-- `assignment_3_2nd.py` — Implementation using SVC and extended comparisons.
+- `signal_classifier.py` — Implementation using Decision Trees and Random Forests.
+- `signal_classifier2.py` — Implementation using SVC and extended comparisons.
 - `sonar.all-data` — Dataset (UCI Sonar Dataset).
 
 ## What’s Implemented
