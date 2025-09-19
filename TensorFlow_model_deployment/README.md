@@ -12,7 +12,6 @@ The focus is on **deployment workflow** rather than model performance. The examp
 - `predict.py` — Base script to send requests to the deployed model.
 - `predict_h5.py` / `predict_keras.py` — Demonstrates loading predictions from saved `.h5` or `.keras` models.
 - `pred_local.py` / `pred_local_saved.py` — Local prediction scripts (without TF Serving).
-- `Assignment 7 - Model Deployment.docx` — Problem statement (not required for execution).
 
 ## What’s Implemented
 
