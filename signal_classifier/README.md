@@ -14,7 +14,6 @@ The work involves:
 - `assignment_3.py` — Implementation using Decision Trees and Random Forests.
 - `assignment_3_2nd.py` — Implementation using SVC and extended comparisons.
 - `sonar.all-data` — Dataset (UCI Sonar Dataset).
-- `Assignment3.docx` — Original problem statement (not needed for execution).
 
 ## What’s Implemented
 
