@@ -6,8 +6,8 @@ Both **Batch Gradient Descent (GD)** and **Stochastic Gradient Descent (SGD)** a
 The goal is to build intuition for optimization algorithms by avoiding pre-built ML libraries (e.g., scikit-learn).
 
 ## Repository Contents
-- `assignment_2.py` — Core implementation of Linear Regression using **batch gradient descent**.
-- `assignment_2_2nd.py` — Extended version implementing **stochastic gradient descent**.
+- `linear_regression.py` — Core implementation of Linear Regression using **batch gradient descent**.
+- `linear_regression2.py` — Extended version implementing **stochastic gradient descent**.
 - `assignment2_data.csv` — Dataset used for training and evaluation.
 
 ## What’s Implemented
