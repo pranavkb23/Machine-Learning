@@ -10,7 +10,7 @@ The project covers:
 - Using **model interpretability tools** (LIME, Partial Dependence plots, surrogate models) for both **global** and **local** explanations
 
 ## Repository Contents
-- `assignment_4.py` — Implementation of models and interpretability experiments.
+- `card_default_predictor.py` — Implementation of models and interpretability experiments.
 - `default_of_credit_card_clients.csv` — Credit default dataset (UCI dataset).
 
 ## What’s Implemented
