@@ -12,7 +12,6 @@ The project covers:
 ## Repository Contents
 - `assignment_4.py` — Implementation of models and interpretability experiments.
 - `default_of_credit_card_clients.csv` — Credit default dataset (UCI dataset).
-- `Assignment4.docx` — Problem statement (not required for execution).
 
 ## What’s Implemented
 
